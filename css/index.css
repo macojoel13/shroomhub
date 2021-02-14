@@ -18,9 +18,13 @@
 .centered h3 {
     color: white;
     text-shadow: 2px 3px rebeccapurple;
+    margin-top: -36px;
 }
 
 
 .wrapper {
     position: relative;
 }
+
+/*.harmguidebutton {
+    /*background-color: rgba(180, 117, 216, 0.212);}*/
