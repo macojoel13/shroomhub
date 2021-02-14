@@ -1,0 +1,26 @@
+.index_body {
+    background-color: black;
+    padding-top: 50px;
+}
+
+.mainbar {
+    font-size: 23px;
+}
+
+.centered {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    text-align: center;
+}
+
+.centered h3 {
+    color: white;
+    text-shadow: 2px 3px rebeccapurple;
+}
+
+
+.wrapper {
+    position: relative;
+}
